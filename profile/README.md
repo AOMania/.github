@@ -4,6 +4,8 @@
 
 AOMania es un proyecto comunitario de **Argentum Online**: cliente, servidor y herramientas de recursos mantenidos de forma coordinada.
 
+Web del reino: [aomania.net](https://aomania.net)
+
 ## Repositorios
 
 - [Cliente](https://github.com/AOMania/Cliente) — cliente VB6 unificado y `AoMania.exe`.
