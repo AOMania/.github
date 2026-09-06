@@ -1,6 +1,6 @@
 # AOMania
 
-![AOMania](./aomania-logo.png)
+![AOMania](./logo-lockup.png)
 
 AOMania es un proyecto comunitario de **Argentum Online**: cliente, servidor y herramientas de recursos mantenidos de forma coordinada.
 
